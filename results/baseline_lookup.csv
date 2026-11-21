@@ -1,0 +1,62 @@
+subcategory,success_rate_train
+Art / Art,0.9992477432296891
+Art / Digital Art,0.561875
+Art / Illustration,0.9893060295790671
+Art / Mixed Media,0.564625850340136
+Art / Painting,0.4597839135654262
+Art / Sculpture,0.530938123752495
+Comics / Anthologies,0.8712871287128713
+Comics / Comic Books,0.9964871194379391
+Comics / Comics,1.0
+Comics / Graphic Novels,0.8814923189465984
+Comics / Webcomics,0.6021021021021021
+Crafts / Crafts,0.9945553539019963
+Crafts / DIY,0.31285988483685223
+Design / Design,0.9986091794158554
+Design / Graphic Design,0.5895522388059702
+Design / Product Design,0.9926954855705904
+Design / Toys,0.6059637912673056
+Fashion / Accessories,0.922003804692454
+Fashion / Apparel,0.5175517551755175
+Fashion / Footwear,0.4142857142857143
+Fashion / Jewelry,0.4908424908424908
+Film & Video / Animation,0.3609215017064846
+Film & Video / Comedy,0.5548996458087367
+Film & Video / Documentary,0.9732472324723247
+Film & Video / Drama,0.49304029304029307
+Film & Video / Horror,0.5224534501642936
+Film & Video / Shorts,0.9820766378244746
+Film & Video / Webseries,0.29516129032258065
+Food / Drinks,0.3595317725752508
+Food / Food Trucks,0.16129032258064516
+Food / Restaurants,0.3095030514385353
+Food / Small Batch,0.43626806833114323
+Games / Mobile Games,0.11475409836065574
+Games / Playing Cards,0.8312557008209183
+Games / Tabletop Games,0.9954513021762398
+Games / Video Games,0.9686609686609686
+Music / Country & Folk,0.9948347107438017
+Music / Electronic Music,0.4666666666666667
+Music / Hip-Hop,0.210016155088853
+Music / Indie Rock,0.9912280701754386
+Music / Music,0.9947333772218565
+Music / Pop,0.5355263157894737
+Music / Rock,0.9917218543046358
+Photography / Photobooks,0.7001845018450185
+Publishing / Anthologies,0.7795275590551181
+Publishing / Art Books,0.8006993006993007
+Publishing / Children's Books,0.9944554455445545
+Publishing / Fiction,0.9849776695087292
+Publishing / Nonfiction,0.9805309734513274
+Publishing / Poetry,0.5588235294117647
+Publishing / Publishing,0.9973226238286479
+Publishing / Young Adult,0.41527001862197394
+Technology / Apps,0.08769182586908864
+Technology / DIY Electronics,0.5810276679841897
+Technology / Gadgets,0.6858560794044665
+Technology / Hardware,0.5792387543252595
+Technology / Software,0.13768844221105528
+Technology / Technology,1.0
+Technology / Wearables,0.4770797962648557
+Technology / Web,0.10736196319018405
+other,0.5307101301239063

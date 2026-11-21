@@ -1,0 +1,17 @@
+features,max_depth,learning_rate,max_iter,AUC_2023
+Model 3 (191 cols),4,0.1,100,0.9082526956388691
+Model 3 (191 cols),4,0.1,200,0.9154554440692743
+Model 3 (191 cols),4,0.1,400,0.9198017375636851
+Model 3 (191 cols),4,0.1,800,0.9206575402243146
+Model 3 (191 cols),None,0.1,100,0.920090984637337
+Model 3 (191 cols),None,0.1,200,0.920565765400657
+Model 3 (191 cols),None,0.1,400,0.9198337795618023
+Model 3 (191 cols),None,0.1,800,0.9183382461728852
+Model 4 (+blurb_score),4,0.1,100,0.9124008536299342
+Model 4 (+blurb_score),4,0.1,200,0.9187663247519403
+Model 4 (+blurb_score),4,0.1,400,0.9230236107901257
+Model 4 (+blurb_score),4,0.1,800,0.9240467877210762
+Model 4 (+blurb_score),None,0.1,100,0.9229762339171069
+Model 4 (+blurb_score),None,0.1,200,0.9235157276238044
+Model 4 (+blurb_score),None,0.1,400,0.9227600076068299
+Model 4 (+blurb_score),None,0.1,800,0.9217584035629056
